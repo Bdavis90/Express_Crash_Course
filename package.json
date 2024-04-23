@@ -1,0 +1,18 @@
+{
+  "name": "express_crash_course",
+  "version": "1.0.0",
+  "description": "Express Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Brandon Davis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
